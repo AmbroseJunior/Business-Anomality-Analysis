@@ -123,6 +123,10 @@ Visualization: Matplotlib, Seaborn
 
 Environment: Google Colab
 
+<img width="988" height="490" alt="image" src="https://github.com/user-attachments/assets/fba8be2f-34bd-4658-aa27-850389f7cda6" />
+<img width="807" height="451" alt="image" src="https://github.com/user-attachments/assets/1fe81ce6-7cb3-4226-8bc7-cf4c42ded4cf" />
+<img width="647" height="470" alt="image" src="https://github.com/user-attachments/assets/e7d37ccd-f1a7-4447-9320-ee2df3ef9e2b" />
+
 📌 Conclusion
 
 This project demonstrates how combining process mining with unsupervised machine learning enables explainable, scalable anomaly detection in real-world financial processes. The methodology is applicable across domains such as finance, logistics, CRM systems, and enterprise operations.
